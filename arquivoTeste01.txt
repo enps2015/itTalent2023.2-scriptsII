@@ -1,0 +1,2 @@
+Este arquivo de teste será usado para a execução de contagem de palavras pelo script!
+Boa sorte!
